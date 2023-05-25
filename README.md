@@ -8,6 +8,7 @@ Let's code together? Pull requests are welcome here! :purple_heart:
 
 # Stack
 - Reactjs
+- Angular
 - React Native
 - Nodejs
 - MongoDB
@@ -15,7 +16,7 @@ Let's code together? Pull requests are welcome here! :purple_heart:
 
 # About me
 
-I'm a full-stack developer with 7 years of experience! I'm 27, based in Brazil :brazil:, and love coding and studying!
+I'm a full-stack developer with 9 years of experience! I'm 29, based in Brazil :brazil:, and love coding and studying!
 
 # Contact 
 
